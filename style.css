@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.style-last-student{
+   
+    height: 40px;
+    color: rgb(106, 133, 156);
+    border: solid greenyellow 1px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
